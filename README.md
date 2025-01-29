@@ -1,5 +1,5 @@
 # ProgramaMe-Problemas
-# 🎄 ProgramaMe Navidad 2025 - Ejercicios Diarios 🎄
+# ProgramaMe 2025 - Ejercicios Diarios 🚀
 
 ¡Bienvenido/a al repositorio de **ejercicios diarios** de **ProgramaMe** (https://programame.com/2025/reg/navidad/)!
 
