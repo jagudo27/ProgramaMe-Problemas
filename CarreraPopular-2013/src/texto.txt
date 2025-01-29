@@ -1,0 +1,10 @@
+2
+Folk, Adolfin
+Zapatilla, Zape
+ZAPATILLA, ZIPI
+Zapatilla, Pombo
+====
+Bunny, Bugs
+Folk, Adolfin
+Mouse, Mickey
+====
